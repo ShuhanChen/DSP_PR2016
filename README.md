@@ -17,7 +17,7 @@ pages={2-12} <br>
 
 Usage:
 1) Put your source images to the path 'imgs'; <br>
-2) Run 'demo.m'. <br>
+2) Run 'demo.p'. <br>
 
 
 The code is tested on Windows 7 64bit with MATLAB R2015b.
