@@ -7,13 +7,13 @@ Date: 31/12/2016
 [1] Shuhan Chen, Ling Zheng, Xuelong Hu, and Ping Zhou. Discriminative Saliency Propagation with Sink Points. Pattern Recognition, 60: 2-12, 2016.
 
 @article{chen2016pr, 
-author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, 
-journal={Pattern Recognition}, 
-title={Discriminative Saliency Propagation with Sink Points}, 
-year={2016}, 
-volume={60},  
-pages={2-12}
-}
+    author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, 
+    journal={Pattern Recognition}, 
+    title={Discriminative Saliency Propagation with Sink Points}, 
+    year={2016}, 
+    volume={60},  
+    pages={2-12}
+    }
 
 Usage:
 1) Put your source images to the path 'imgs';
