@@ -7,12 +7,12 @@ Date: 31/12/2016 <br>
 [1] Shuhan Chen, Ling Zheng, Xuelong Hu, and Ping Zhou. Discriminative Saliency Propagation with Sink Points. Pattern Recognition, 60: 2-12, 2016.
 
 @article{chen2016pr, <br>
-author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, <br>
-journal={Pattern Recognition}, <br>
-title={Discriminative Saliency Propagation with Sink Points}, <br>
-year={2016}, <br>
-volume={60}, <br>
-pages={2-12} <br>
+  author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, <br>
+  journal={Pattern Recognition}, <br>
+  title={Discriminative Saliency Propagation with Sink Points}, <br>
+  year={2016}, <br>
+  volume={60}, <br>
+  pages={2-12} <br>
 }
 
 Usage:
