@@ -5,13 +5,13 @@ This code is for [1], and can only be used for non-comercial purpose. If you use
 Citation
 ---
 ```
-@article{chen2016pr, <br>
-  author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, <br>
-  journal={Pattern Recognition}, <br>
-  title={Discriminative Saliency Propagation with Sink Points}, <br>
-  year={2016}, <br>
-  volume={60}, <br>
-  pages={2-12} <br>
+@article{chen2016pr, 
+  author={Shuhan Chen and Ling Zheng and Xuelong Hu and Ping Zhou}, 
+  journal={Pattern Recognition}, 
+  title={Discriminative Saliency Propagation with Sink Points}, 
+  year={2016}, 
+  volume={60},
+  pages={2-12} 
 }
 ```
 
