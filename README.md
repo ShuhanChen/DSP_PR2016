@@ -1,7 +1,3 @@
-This code is for [1], and can only be used for non-comercial purpose. If you use our code, please cite [1].
-
-[1] Shuhan Chen, Ling Zheng, Xuelong Hu, and Ping Zhou. Discriminative Saliency Propagation with Sink Points. Pattern Recognition, 60: 2-12, 2016.
-
 Citation
 ---
 ```
