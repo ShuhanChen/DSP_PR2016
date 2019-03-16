@@ -5,7 +5,6 @@ Usage
 
 
 The code is tested on Windows 7 64bit with MATLAB R2015b.
-This code is the preliminary version. We appreciate any comments/suggestions.
 
 Citation
 ---
